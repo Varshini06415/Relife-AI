@@ -1,0 +1,8 @@
+{
+  "name": "ReLife AI",
+  "description": "A platform to donate unused food and medicines before expiry, featuring AI-driven prioritization, location matching, and secure QR pickups.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
